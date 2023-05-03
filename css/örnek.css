@@ -1,0 +1,18 @@
+.border-bottom-dark{
+    background-color:   #0d3982;
+}
+.coursecard .completion-line {
+    background-color: #3d5c1f;
+    height: 0.3em;
+    margin-top: -0.4em;
+}
+.coursecard .completionstatus {
+    border-bottom: 0.5em solid #dee2e6;
+}
+.coursecard .completionstatus, .coursecard .coursegrade {
+    font-size: .75rem;
+}
+.border-bottom-dark1{
+    border-bottom:1px solid rgba(41, 41, 41, 1);
+}
+
